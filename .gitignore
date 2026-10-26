@@ -12,3 +12,9 @@ red_heart.jpg
 data.csv
 dialogues.tsv
 profiles.tsv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/

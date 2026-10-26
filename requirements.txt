@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+scikit-optimize
+scipy
+opencv-python
+nltk
+pymorphy3
+gensim
+beautifulsoup4
+jupyter
